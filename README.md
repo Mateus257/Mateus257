@@ -2,8 +2,9 @@
 
 **`Transformando ideias em experiências digitais memoráveis`** 🎨 🔹 [Portfólio](https://mateus257.github.io/portifolio/)  
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Web+Designer+UI/UX;Interfaces+Intuitivas;Soluções+Criativas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=435&lines=Web+Designer+UI%2FUX;Interfaces+Intuitivas;Soluções+Criativas" alt="" />
 </div>
 
 Olá! Sou Mateus Barros, designer com formação em Relações Internacionais e paixão por criar interfaces funcionais e esteticamente impactantes. Como freelancer, desenvolvo projetos que unem usabilidade e identidade visual, sempre com foco na jornada do usuário. 
